@@ -6,5 +6,12 @@ This project repo serves as a sandbox for playing with PySpark, Spark in virtual
 ## To activate
 `source ps_env/bin/activate`
 
--09
+
 # Good Luck!
+
+https://spark.apache.org/downloads.html
+
+### Links to other installation explanations
+
+https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617
+https://medium.com/p/1adc142456ec
